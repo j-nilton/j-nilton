@@ -20,7 +20,7 @@
 
 <div align = "justify">
 <p>
-Eu sou formado em Licenciatura Plena em Física, atualmente exercendo a profissão como professor de Matemática de rede púplica e também aluno do 1º módulo do curso de Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal do Piauí - Campus Piripiri. Sou apaixonado por games e a programação sempre chamou a minha atenção, agora estou tendo a oportunidade de fazer um curso na área.
+Eu sou formado em Licenciatura Plena em Física, atualmente exercendo a profissão como professor de Matemática de rede púplica e também aluno do 2º módulo do curso de Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal do Piauí - Campus Piripiri. Sou apaixonado por games e a programação sempre chamou a minha atenção, agora estou tendo a oportunidade de fazer um curso na área.
 
 Aqui você pode encontrar algumas práticas que estou desenvolvendo e aprendendo dentro e fora do curso, inclusive um repositório com várias atividades usando TypeScript. Até então, o foco no momento está sendo direcionado para essa linguagem de programação, mas estou em busca de conhecimento em outras escritas também.
 <p>
